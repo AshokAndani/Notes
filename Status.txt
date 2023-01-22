@@ -1,0 +1,16 @@
+Please follow the below agile format to share your timely activity updates in this group - *
+
+Step1:- Copy the below format provided
+
+*Agile Format for daily updates and this should come thrice a day at 1pm, 4pm and 7pm from each engineer's side - *
+What is done today: [.......]
+What I will do next: [.......]
+Is there any hurdle/block/issue you faced: [.......]
+
+Step2:- Edit the format given " [.....]" this should be removed and comment has to be given
+Step3:- Post the work status updates thrice a day at 1pm, 4pm, 7pm on daily basis, more updates are appreciated
+Note:- This format has to be provided in a single message while sharing the updates...!
+
+What is done today: learnt git concepts
+What I will do next: learn oops concepts
+Is there any hurdle/block/issue you faced:no
